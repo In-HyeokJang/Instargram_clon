@@ -4,6 +4,8 @@
 
 #### Tools : flutter / vscode / android studio(노트북 용량 부족으로 설치 못함....아직 작동 못함) / vscode crome으로 보면서 하는중
 
+#### 노트북 용량 초과로 새로운 노트북 구입 후 공부 진행 예정
+
 #### android studio 설치
 
     - https://developer.android.com/studio 다운
